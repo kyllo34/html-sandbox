@@ -15,10 +15,15 @@ h4 {
 }
 ul {
     border: 1px solid;
-    border-color: black;;
+    border-color: black;
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+article {
+    border: 2px solid;
+    border-color: black;
+    text-align: center;
 }
 footer {
     color: rgb(10, 10, 156);
