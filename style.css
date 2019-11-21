@@ -21,6 +21,7 @@ ul {
     padding: 0;
 }
 article {
+    background-color: rgb(255, 206, 174);
     border: 2px solid;
     border-color: black;
     text-align: center;
@@ -29,7 +30,10 @@ footer {
     color: rgb(10, 10, 156);
 
 }
-
+main li {
+    border: 1px solid;
+    border-color: black;
+}
 
 .menu-item{
     display: inline;
